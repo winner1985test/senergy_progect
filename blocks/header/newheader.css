@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  /**background-size: 176px 52px;}*/
+}
+.header .header__logo {
+  background-image: url("../../../img/logo/logo.svg");
+  width: 176px;
+  height: 52px;
+}
+
+/*# sourceMappingURL=newheader.css.map */
