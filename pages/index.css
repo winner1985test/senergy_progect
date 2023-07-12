@@ -31,11 +31,24 @@
 @import url('../blocks/places/__text/places__text.css');
 @import url('../blocks/places/__flex-row/places__flex-row.css');
 @import url('../blocks/places/__wibsite.css/places__wibsite.css');
-@import url('../blocks/places/__plase/places__plase.css');
 @import url('../blocks/places/__wibsite.css/places__wibsite-1.css');
+@import url('../blocks/places/__wibsite.css/places__wibsite-2.css');
+@import url('../blocks/places/__wibsite.css/places__wibsite-3.css');
+@import url('../blocks/places/__wibsite.css/places__wibsite-4.css');
 
 
-@import url('../blocks/cover/__picture/cover__picture.scc');
+
+@import url('../blocks/places/__plase/places__plase.css');
+
+
+
+
+@import url('../blocks/cover/cover.css');
+
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/item/photo-grid__item.css');
+
+@import url('../blocks/footer/footer.css');
 
 
 
