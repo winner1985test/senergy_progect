@@ -1,21 +1,22 @@
 .footer {
 
-    width: 1184px;
-margin: 92px auto 0 auto;
-display: grid;
+    /*max-width: 1184px;*/
+    
+    display: grid;
 
-grid-template-columns: 100px 100px 100px 100px 550px 250px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 7fr 2fr;
+    /*gap: 8px;*/
 
-
-
-
-gap: 15px;
 
 }
 
+
+
+
+
+
+
     
-   
-    
-    /*repeat(6, 1fr);
-    gap: 5px;*/
-    
+
+
+
