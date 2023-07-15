@@ -1,7 +1,13 @@
 .cover {
 
-    width: 1184px;
-    margin: 92px auto 0 auto;
+max-width: 1184;
+width: 100%;
+position: relative;
+height: 740px;
+
+/*margin: 92px auto;*/
+
+
+/*position: relative;*/
 
 }
-

@@ -5,7 +5,11 @@ margin: 92px auto 0 auto;
 display: grid;
 
 grid-template-columns: 100px 100px 100px 100px 550px 250px;
-gap: 16px;
+
+
+
+
+gap: 15px;
 
 }
 
